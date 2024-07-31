@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="no_data_from_api_call">No data from API.</string>
+    <string name="no_network_available_please_check_and_try_again">No Network Available, Please check and click here to try again.</string>
+    <string name="height_dm">Height: %1$s dm</string>
+    <string name="weight_kg">Weight: %1$s kg</string>
+</resources>
